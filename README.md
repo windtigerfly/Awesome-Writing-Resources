@@ -1,3 +1,4 @@
+* [ficvale](https://ficvale.com) - Free tools for fanfic and roleplay writers: an incorrect quotes generator that turns two to four character names into a short dialogue scene, and a character name generator with syllable counts. No sign-up. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 ![GitHub Release](https://img.shields.io/github/v/release/davethepitt/awesome-writing-resources) ![Static Badge](https://img.shields.io/badge/Last_Updated-1st_Feb_2026-blue)
 
 # Awesome Writing Resources  
