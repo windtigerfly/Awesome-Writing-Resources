@@ -1,4 +1,3 @@
-* [ficvale](https://ficvale.com) - Free tools for fanfic and roleplay writers: an incorrect quotes generator that turns two to four character names into a short dialogue scene, and a character name generator with syllable counts. No sign-up. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 ![GitHub Release](https://img.shields.io/github/v/release/davethepitt/awesome-writing-resources) ![Static Badge](https://img.shields.io/badge/Last_Updated-1st_Feb_2026-blue)
 
 # Awesome Writing Resources  
@@ -55,3 +54,4 @@ Dave Pitt
 * [Grammarly](https://www.grammarly.com/) - Writing assistant tool which reviews spelling, grammar and tone. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Hemingway App](https://hemingwayapp.com/) - Desktop and online app which helps with readability of text. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Surname Generator](https://surname-generator.com) - Generates realistic last names by origin (29 cultures including English, Japanese, Russian, Brazilian, Nigerian) plus fantasy, D&D and sci-fi flavors — useful for naming characters across stories. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
+* [ficvale](https://ficvale.com) - Free tools for fanfic and roleplay writers: an incorrect quotes generator that turns two to four character names into a short dialogue scene, and a character name generator with syllable counts. No sign-up. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
